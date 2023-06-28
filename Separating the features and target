@@ -1,0 +1,5 @@
+# Breast-Cancer-detection
+X = data_frame.drop(columns='label', axis=1)
+Y = data_frame['label']
+print(X)
+print(Y)
